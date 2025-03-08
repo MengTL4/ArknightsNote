@@ -1,0 +1,2 @@
+# ArknightsNote
+ArknightsNote
